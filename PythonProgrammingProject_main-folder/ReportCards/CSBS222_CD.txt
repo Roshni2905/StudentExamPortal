@@ -1,0 +1,14 @@
+Name of the student : CD 
+Class Roll of the student : 2 
+Stream of the student : CSBS 
+Your Student ID is : CSBS222
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 93 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 100 
+Marks obtained in English is : 94 
+
+You have got 579 in total with 96%
+Outstanding Performance... You have passed the exam with grade A.

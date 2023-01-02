@@ -1,0 +1,14 @@
+Name of the student : AB 
+Class Roll of the student : 1 
+Stream of the student : CSBS 
+Your Student ID is : CSBS221
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 77 
+Marks obtained in Chemistry is : 99 
+Marks obtained in Biology is : 89 
+Marks obtained in English is : 79 
+
+You have got 529 in total with 88%
+Excellent Performance... You have passed the exam with grade B.
